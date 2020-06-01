@@ -31,4 +31,4 @@ jobs:
     - name: install surge
       run: npm install --global surge
     - name: deploying using surge
-      run: surge ./ http://worthless-passenger.surge.sh --token "c0723fd88abc25b93d9fe99603b19057" 
+      run: surge ./ Assienment1.surge.sh --token "c0723fd88abc25b93d9fe99603b19057" 
